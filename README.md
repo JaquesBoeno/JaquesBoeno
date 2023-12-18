@@ -1,4 +1,3 @@
-![](https://profile-counter.glitch.me/JaquesBoeno/count.svg)
 ## Hi! I'm Jaques Boeno 👋
 
 <div>
@@ -17,4 +16,5 @@
   <p>My email: jaquesboeno@proton.me</p>
   <a href="mailto:jaquesboeno@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://t.me/JaquesJunior06"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a hred="https://profile-counter.glitch.me/JaquesBoeno/count.svg" visible="false">ttttt</a>
 </div>
