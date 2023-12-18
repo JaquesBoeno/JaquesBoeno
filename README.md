@@ -1,3 +1,4 @@
+![](https://profile-counter.glitch.me/JaquesBoeno/count.svg)
 ## Hi! I'm Jaques Boeno 👋
 
 <div>
