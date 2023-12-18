@@ -14,7 +14,7 @@
 <div>
   <h3>Contato:</h3>
   <p>My email: jaquesboeno@proton.me</p>
-  ![email public key](./publickey.jaquesboeno@proton.me.asc)
+  <p><a href="/publickey.jaquesboeno@proton.me.asc">Email PublicKey</a></p>
   <a href="mailto:jaquesboeno@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://t.me/JaquesJunior06"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
