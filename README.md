@@ -1,4 +1,4 @@
-# Hi! I'm Jaques Boeno <picture><img src="/hello.gif" width="32px" alt="hi" /></picture>
+# Hello there <picture><img src="/hello.gif" width="32px" alt="hi" /></picture>
 
 ## 👨‍💻 About Me
 🇧🇷 Brazilian developer <br/>
