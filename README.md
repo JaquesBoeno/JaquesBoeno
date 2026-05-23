@@ -8,6 +8,8 @@
 ## 🚀 Tech Stack:
 <p align="left">
 	<picture>
+    	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,zig,c,bash,lua,svelte,latex,docker,cloudflare,git,github,linux,arch,neovim&perline=6" />
+    	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,go,zig,c,bash,lua,svelte,latex,docker,cloudflare,git,github,linux,arch,neovim&theme=light&perline=6" />
 		<img src="https://skillicons.dev/icons?i=rust,go,zig,c,bash,lua,svelte,latex,docker,cloudflare,git,github,linux,arch,neovim&perline=6" />
 	</picture>
 </p>
