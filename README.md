@@ -5,7 +5,7 @@
 🎓 Computer Science student at UFPel (Federal University of Pelotas - RS)<br/>
 ⚙️ Interested in parallel and performance-oriented programming
 
-## 🚀 Technologies I Work With
+## 🚀 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,go,zig,c,bash,svelte,cloudflare,git,github,linux,arch,neovim&perline=6" />
