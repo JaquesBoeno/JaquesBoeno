@@ -7,7 +7,9 @@
 
 ## 🚀 Tech Stack:
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=rust,go,zig,c,bash,svelte,cloudflare,git,github,linux,arch,neovim&perline=6" />
+	<a href="">
+		<img src="https://skillicons.dev/icons?i=rust,go,zig,c,bash,lua,svelte,latex,docker,cloudflare,git,github,linux,arch,neovim&perline=6" />
+	</a>
 </p>
 
 ## 📫 Contact
