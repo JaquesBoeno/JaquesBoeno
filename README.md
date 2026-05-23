@@ -1,4 +1,4 @@
-# Hi! I'm Jaques Boeno <img src="/hello.gif" width="32px" alt="hi" />
+# Hi! I'm Jaques Boeno <picture><img src="/hello.gif" width="32px" alt="hi" /></picture>
 
 ## 👨‍💻 About Me
 🇧🇷 Brazilian developer <br/>
@@ -7,9 +7,9 @@
 
 ## 🚀 Tech Stack:
 <p align="left">
-	<a href="">
+	<picture>
 		<img src="https://skillicons.dev/icons?i=rust,go,zig,c,bash,lua,svelte,latex,docker,cloudflare,git,github,linux,arch,neovim&perline=6" />
-	</a>
+	</picture>
 </p>
 
 ## 📫 Contact
